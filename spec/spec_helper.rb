@@ -1,1 +1,1 @@
-require 'configurasta'
+require 'configusta'

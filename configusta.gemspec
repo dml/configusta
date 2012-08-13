@@ -1,12 +1,12 @@
-require File.expand_path('../lib/configurasta/version', __FILE__)
+require File.expand_path('../lib/configusta/version', __FILE__)
 
 Gem::Specification.new do |s|
-  s.name          = 'configurasta'
-  s.version       = Configurasta::VERSION
+  s.name          = 'configusta'
+  s.version       = Configusta::VERSION
   s.authors       = ['Dmtiry Larkin']
   s.email         = ['dmitry.larkin@gmail.com']
-  s.homepage      = 'https://github.com/dml/configurasta'
-  s.summary       = 'Configurasta Gem'
+  s.homepage      = 'https://github.com/dml/configusta'
+  s.summary       = 'Gonfigusta Gem'
   s.description   = 'Gem that makes configuration magic'
 
   s.require_path  = 'lib'
